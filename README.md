@@ -7,7 +7,7 @@ This is an implementation of [Qwen/Qwen2.5-VL-72B-Instruct](https://huggingface.
 
 Run a prediction:
 
-    cog predict -i media=@monkey.mp4 -i prompt="Describe this video in detail"
+    cog predict -i media=@snake.mp4 -i prompt="Describe this video in detail"
 
 ## Output:
 
